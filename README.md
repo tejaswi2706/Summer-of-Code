@@ -4,9 +4,9 @@ This repository contains my work completed as part of the Summer of Code (SoC) C
 
 ## Repository Structure
 
-- **Week 1:** Solutions to contest 1.
-- **Week 2:** Solutions to contest 2.
-- **Week 3:** Solutions to CSES Problem Set.
+- **Week 1:** Solutions to Contest 1.
+- **Week 2:** Solutions to Contest 2.
+- **Week 3:** Solutions to the CSES Problem Set.
 - **Week 4:** Additional CSES Problem Set solutions and practice.
 
 ## Language Used
@@ -15,7 +15,15 @@ This repository contains my work completed as part of the Summer of Code (SoC) C
 
 ## Topics Covered
 
-## Language Used
-- C++
+- Arrays
+- Vectors
+- Stack
+- Queue
+- Deque
+- Two Pointers
+- Binary Search
+- Sliding Window
+- CSES Problem Set
+- Competitive Programming Practice
 
 This repository represents my progress up to the mid-term evaluation.
